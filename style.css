@@ -1,0 +1,64 @@
+html,header,body,#intro{
+	height:100%;
+
+}
+
+#intro{
+	background:url("carousel-1 (2).jpg");
+	background-position:center;
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-repeat:no-repeat;
+}
+
+#head{
+	margin:34% auto;
+}
+.top-nav-collapse{
+	background-color: #24355c;
+}
+
+.image{
+	width: 100%;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+img {
+    vertical-align: middle;
+}
+
+#portfolio .portfolio-item .portfolio-caption {
+    padding: 1.5rem;
+    text-align: center;
+    background-color: #ddd;
+}
+.dev-icons{
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+
+}
+.list-inline-item{
+	font-size:1.3rem;
+	
+}
+.subheading{
+	font-weight: bold;
+	text-transform: uppercase;
+	
+}
+.dev-icons li:hover{
+	color:orange;
+}
+.img-fluid{
+	height: 300px;
+}
+
+.fa-ul li:hover{
+	color:rgb(235, 110, 27);
+}
